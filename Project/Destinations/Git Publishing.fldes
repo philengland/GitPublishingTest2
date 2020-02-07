@@ -5,10 +5,12 @@
   Host="ftp.myftpserver.com"
   User="MyAccountId"
   Password=""
-  Directory="C:\Users\pengland\Desktop\! Test Projects\! Source Control Test Projects\Git\Git Publishing Test\Git Publishing"
+  Directory="C:\Users\pengland\Desktop\! Test Projects\! Source Control Test Projects\Git\Git Publishing Test 2\Git Publishing"
   Port=""
   ViewUrl="http://www.madcapsoftware.com/"
   Type="scm"
   ProviderType="Git"
-  Database="file:///C:/Users/pengland/Desktop/! Test Projects/! Source Control Test Projects/Git/Git Publishing Test/.git"
-  DatabaseRoot="file:///C:/Users/pengland/Desktop/! Test Projects/! Source Control Test Projects/Git/Git Publishing Test/Git Publishing"></CatapultDestination>
+  Database="file:///C:/Users/pengland/Desktop/! Test Projects/! Source Control Test Projects/Git/Git Publishing Test 2/.git"
+  DatabaseRoot="file:///C:/Users/pengland/Desktop/! Test Projects/! Source Control Test Projects/Git/Git Publishing Test 2/Git Publishing"
+  PushToRemote="true"
+  RemoteRepository="origin"></CatapultDestination>
