@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="This is my publish destination"
+  Host="ftp.myftpserver.com"
+  User="MyAccountId"
+  Password=""
+  Directory="C:\Users\pengland\Desktop\! Test Projects\! Source Control Test Projects\Git\Git Publishing Test 2\Git Publishing - PublishTest Branch"
+  Port=""
+  ViewUrl="http://www.madcapsoftware.com/"
+  Type="scm"
+  ProviderType="Git"
+  Database="file:///C:/Users/pengland/Desktop/! Test Projects/! Source Control Test Projects/Git/Git Publishing Test 2/.git"
+  DatabaseRoot="file:///C:/Users/pengland/Desktop/! Test Projects/! Source Control Test Projects/Git/Git Publishing Test 2/Git Publishing - PublishTest Branch"
+  PushToRemote="true"
+  RemoteRepository="origin"></CatapultDestination>

@@ -15,7 +15,7 @@
     GenerateGlossaryProxy="true" />
   <Destinations>
     <Destination
-      Link="/Project/Destinations/Git Publishing.fldes"
+      Link="/Project/Destinations/3.fldes"
       Publish="true"
       IsResource="false" />
   </Destinations>
